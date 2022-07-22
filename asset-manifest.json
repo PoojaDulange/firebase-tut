@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase-tut/static/css/main.e5eab7fe.css",
+    "main.js": "/firebase-tut/static/js/main.fc3e6ccb.js",
+    "static/js/787.cdb66703.chunk.js": "/firebase-tut/static/js/787.cdb66703.chunk.js",
+    "index.html": "/firebase-tut/index.html",
+    "main.e5eab7fe.css.map": "/firebase-tut/static/css/main.e5eab7fe.css.map",
+    "main.fc3e6ccb.js.map": "/firebase-tut/static/js/main.fc3e6ccb.js.map",
+    "787.cdb66703.chunk.js.map": "/firebase-tut/static/js/787.cdb66703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5eab7fe.css",
+    "static/js/main.fc3e6ccb.js"
+  ]
+}
