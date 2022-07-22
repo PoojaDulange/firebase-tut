@@ -13,7 +13,7 @@ const CreateUser = () => {
     const [newAge, setNewAge] = useState(0);
 
     const usersCollectionRef = collection(db, 'users');
-
+    
 
     const createUser = async () => {
         await addDoc(usersCollectionRef, { name: newName, age: Number(newAge) });
